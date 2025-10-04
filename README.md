@@ -1,4 +1,4 @@
-**<u>[See Releases to download the game APK](https://github.com/NehanShaikh/wumpus_game.apk/releases)</u>**
+**<u>[Click on this to See Releases and download the game APK](https://github.com/NehanShaikh/wumpus_game.apk/releases)</u>**
 
 # wumpus_game.apk
 
