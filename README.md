@@ -1,4 +1,4 @@
-* See Releases to download the game apk
+*** See Releases to download the game apk**
 # wumpus_game.apk
 
 A multiplayer (or single-player) strategy game built with **Node.js**, **PostgreSQL**, and **Flutter**. This project features a backend API for user management and saved game state, and a Flutter frontend for gameplay.
